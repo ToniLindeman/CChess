@@ -1,0 +1,25 @@
+******************************************************************
+* If you're new to this chess scenario editor, please read these *
+* instructions carefully.                                        *
+*                                                                *
+* Placing a chess piece format:                                  *
+* [player] [chess piece] [location]                              *
+*                                                                *
+* Clear a square format:                                         *
+* 0 [location]                                                   *
+*                                                                *
+* Example:                                                       *
+* 1 1 A1 = Place a player 1 pawn in square A1                    *
+* 0 A1 = Clear square A1                                         *
+*                                                                *
+* Per player you can place at most:                              *
+* 8 pawns                                                        *
+* 2 rooks, knights, and bishops                                  *
+* 1 queen and king                                               *
+*                                                                *
+* When your scenario is completed, enter '0' to exit editor.     *
+* You can then save your scenario in one of the three scenario   *
+* files.                                                         *
+*                                                                *
+* I hope you enjoy this scenario editor.                         *
+******************************************************************

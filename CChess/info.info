@@ -1,0 +1,27 @@
+-----------------------------------------------------------------
+| Instructions:                                                 |
+| C-Chess is a simple implementation of chess in C-language.    |
+| There is no computer player, either you play against yourself |
+| or a friend.                                                  |
+|                                                               |
+| Scenario builder lets you build a chess scenario, and then    |
+| run it. You can save up to three scenarios.                   |
+|                                                               |
+| You have the option to save and exit a game. The game can     |
+| then be loaded at a later time.                               |
+|                                                               |
+| Player one (white) is on top, and player two on the bottom    |
+| (black). Each player's chess pieces are marked with a number. |
+| 1 for white and 2 for black.                                  |
+|                                                               |
+| Chess piece letters:                                          |
+| p -> Pawn                                                     |
+| R -> Rook                                                     |
+| N -> Knight                                                   |
+| B -> Bishop                                                   |
+| Q -> Queen                                                    |
+| K -> King                                                     |
+|                                                               |
+| Rules NOT in game:                                            |
+| - En passant                                                  |
+-----------------------------------------------------------------

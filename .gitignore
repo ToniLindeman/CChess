@@ -1,0 +1,19 @@
+# gitignore file for CChess
+
+# Ignore object and backup files
+*.o
+*~
+
+# Ignore text files
+*.txt
+*.doc
+*.dotx
+*.pdf
+
+# Ignore CChess save files
+*.gst
+*.scn
+
+# Ignore executable
+/CChess/Exercise9_CChess
+
