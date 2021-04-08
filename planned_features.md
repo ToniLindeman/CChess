@@ -7,18 +7,19 @@ come in handy. The playback part with timing is what I'm not sure about right no
 you could allow user to choose at what speed the playback goes.
 
 
-Improvement: More consistent prompts and user input
+Improvement:
+More consistent prompts and user input
 The prompts and user input could use some improvement. Both menu.c and userInput.c could be improved.
 Input validation works well, so that's a plus.
 
 
-Logs
+Logs: 
 Write errors into a log file. Once this is implemented, you can change the error prints to something more suitable
 for "normal" users.
 
 
-Error code
+Error code: 
 Make a table of error codes and adjust functions accordingly.
 
-AI Player
-Create a computer opponent if you happen to have tons of spare time.
+AI Player: 
+Create a computer opponent.
